@@ -38,7 +38,7 @@ People who want to find a parking lot around selected location can fill the deta
 # Run On Local Machine
 Step1 - Clone this repository using:
 ```
-
+https://github.com/NISHANTAVHAD/Final_Year_Project_SmartParkingApplication.git
 ```
 Step2 -
 Install the server dependencies:
