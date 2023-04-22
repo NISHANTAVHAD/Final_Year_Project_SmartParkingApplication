@@ -38,8 +38,7 @@ People who want to find a parking lot around selected location can fill the deta
 # Run On Local Machine
 Step1 - Clone this repository using:
 ```
-$ git clone https://github.com/vdmondkr2002/Smart-Parking-Web-App/
-$ cd Smart-Parking-Web-App
+
 ```
 Step2 -
 Install the server dependencies:
